@@ -23,10 +23,10 @@ async def start(client, message):
     if message.chat.type in [enums.ChatType.GROUP, enums.ChatType.SUPERGROUP]:
         buttons = [
             [
-                InlineKeyboardButton('⚡ UᎮDΛTΞS ⚡', url='https://t.me/KalaiMVTamil')
+                InlineKeyboardButton('⚡ UᎮDΛTΞS ⚡', url='https://t.me/Kalaibots')
             ],
             [
-                InlineKeyboardButton('⚡ SUBSCᏒIBΞ ⚡', url=f"https://t.me/KalaiMVTamil"),
+                InlineKeyboardButton('⚡ SUBSCᏒIBΞ ⚡', url=f"https://t.me/KalaiMoviesLinkZz"),
             ],
             [
                 InlineKeyboardButton(text=DOWNLOAD_TEXT_NAME,url=DOWNLOAD_TEXT_URL)
@@ -47,8 +47,8 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('⚡ SUBSCᏒIBΞ ⚡', url='https://t.me/KalaiMVTamil'),
-            InlineKeyboardButton('🤖 UᎮDΛTΞS 🤖', url='https://t.me/KalaiMVTamil')
+            InlineKeyboardButton('⚡ SUBSCᏒIBΞ ⚡', url='https://t.me/KalaiMoviesLinkZz'),
+            InlineKeyboardButton('🤖 UᎮDΛTΞS 🤖', url='https://t.me/Kalaibots')
             ],[
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
@@ -93,8 +93,8 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('⚡ SUBSCᏒIBΞ ⚡', url='https://t.me/KalaiMVTamil'),
-            InlineKeyboardButton('🤖 UᎮDΛTΞS 🤖', url='https://t.me/KalaiMVTamil')
+            InlineKeyboardButton('⚡ SUBSCᏒIBΞ ⚡', url='https://t.me/KalaiMoviesLinkZz'),
+            InlineKeyboardButton('🤖 UᎮDΛTΞS 🤖', url='https://t.me/Kalaibots')
             ],[
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
